@@ -47,8 +47,6 @@
 
 ## 🏗️ System Architecture
 
-![System Architecture](system_architecture_diagram.png)
-
 ```text
 Data → Preprocessing → XGBoost Model → FastAPI → Dashboard → Intervention Engine
 ```
