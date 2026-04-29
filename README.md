@@ -37,6 +37,14 @@
 ### 👨‍🎓 Student Cohort & Intervention
 ![Cohort](student_cohort_intervention.png)
 
+## 📊 Model Insights
+
+### 📊 Model Evaluation (ROC Curve & Confusion Matrix)
+![Model Evaluation](model_evaluation_roc_confusion.png)
+
+### 🧠 Model Explainability (SHAP Feature Importance)
+![SHAP](shap_feature_importance.png)
+
 ## 🏗️ System Architecture
 
 ![System Architecture](system_architecture_diagram.png)
